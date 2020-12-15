@@ -7,3 +7,6 @@ def hello_world():
 
 def hello_world2():
     return "Hello world2"
+
+def hello_world3():
+    return "Hello world2"
