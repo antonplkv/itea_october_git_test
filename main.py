@@ -4,3 +4,6 @@ def test():
 
 def hello_world():
     return "Hello world"
+
+def hello_world2():
+    return "Hello world2"
