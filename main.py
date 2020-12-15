@@ -3,4 +3,5 @@ def test():
 
 
 def hello_world():
-    return 'Hello world'
+    return "Hello world"
+
