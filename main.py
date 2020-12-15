@@ -1,7 +1,6 @@
 def test():
-    pass
+    assert 1 == 1
 
 
 def hello_world():
     return "Hello world"
-
